@@ -2,16 +2,6 @@
 
 ![デモ](/doc/hpu_demo.jpg)
 
-[VRM Posing Desktop](https://store.steampowered.com/app/1895630/VRM/)では使用しているポーズjsonはUnityのHumanPoseクラスを採用しております。
-
-そのため簡単に他のUnity製プロダクトと互換性を持たせることができます。
-
-[English is here](/README.md)
-
-## 利用例
-* ゲーム内のキャラクター選択画面で特定のポーズを取らせる。
-* アバター作成アプリなどでのプレビュー表示。
-
 ## 名前空間
 
 ```cs
