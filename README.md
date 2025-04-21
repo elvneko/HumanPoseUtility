@@ -2,14 +2,6 @@
 
 ![DEMO](/doc/hpu_demo.jpg)
 
-The pose json used in [VRM Posing Desktop](https://store.steampowered.com/app/1895630/VRM/) uses Unity's HumanPose class. This makes it easy to make it compatible with your Unity products.
-
-[日本語はこちら](/README_JA.md)
-
-## Usage Examples
-* Make a character take a specific pose on the character selection screen in a game.
-* Preview display in avatar creation applications, etc.
-
 ## Name Space
 
 ```cs
